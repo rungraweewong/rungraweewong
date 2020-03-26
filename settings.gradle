@@ -1,0 +1,2 @@
+include ':app', ':NearBytes-3.0.1-20190802-1'
+rootProject.name='AdapterCovid'
